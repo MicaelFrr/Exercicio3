@@ -1,0 +1,4 @@
+Exercicio: Soma de dois numeros inteiros
+Escreva um alogritmo que solicite ao usuario dois numeros inteiros e calcule a soma desses numeros.
+
+
