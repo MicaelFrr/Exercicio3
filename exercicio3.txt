@@ -1,4 +1,4 @@
 Exercicio: Soma de dois numeros inteiros
-Escreva um alogritmo que solicite ao usuario dois numeros inteiros e calcule a subtraçao do maior numero com o menor numero.
+Escreva um alogritmo que solicite ao usuario dois numeros e um operador, em seguida fassa o calculo.
 
 
